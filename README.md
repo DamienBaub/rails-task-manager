@@ -1,24 +1,23 @@
-# README
+# Rails Task Manager
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Basic CRUD features
 
-Things you may want to cover:
+<h2>List all the tasks</h2>
 
-* Ruby version
+![image](https://github.com/user-attachments/assets/6367c67d-1963-43ba-942d-8b1691e44ca5)
 
-* System dependencies
+<h2>View a single task</h2>
 
-* Configuration
+![image](https://github.com/user-attachments/assets/b48d0a1a-d309-49a3-8e88-a4543e92ceec)
 
-* Database creation
+<h2>Edit a task</h2>
 
-* Database initialization
+![image](https://github.com/user-attachments/assets/9e71a93b-0f22-49cb-9537-c8abff8193d9)
 
-* How to run the test suite
+<h2>Delete a task</h2>
 
-* Services (job queues, cache servers, search engines, etc.)
+![image](https://github.com/user-attachments/assets/836facc2-fab0-4371-89d9-78e69a6b2af6)
 
-* Deployment instructions
+<h2>Add a task</h2>
 
-* ...
+![image](https://github.com/user-attachments/assets/6081f286-297c-41ef-a138-7a203ef2ab30)
